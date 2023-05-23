@@ -4,14 +4,14 @@ using System.Windows.Forms;
 
 namespace Software_Evaluation
 {
-    public partial class Form1 : Form
+    public partial class KTY : Form
     {
-        public Form1()
+        public KTY()
         {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void KTY_Load(object sender, EventArgs e)
         {
             string[] criteria = new string[] {
                 "Удобство работы (пользовательский интерфейс)",
@@ -47,17 +47,17 @@ namespace Software_Evaluation
             {
                 foreach (DataGridViewCell cell in row.Cells)
                 {
-                    if (cell.Value == null || cell.Value.ToString() == "")
-                    {
-                        MessageBox.Show("Заполните все критерии качества");
-                        return;
-                    }
+                    //if (cell.Value == null || cell.Value.ToString() == "")
+                    //{
+                    //    MessageBox.Show("Заполните все критерии качества");
+                    //    return;
+                    //}
 
-                    if(!int.TryParse(cell.Value.ToString(), out int n))
-                    {
-                        MessageBox.Show("Некорретные данные");
-                        return;
-                    }
+                    //if(!int.TryParse(cell.Value.ToString(), out int n))
+                    //{
+                    //    MessageBox.Show("Некорретные данные");
+                    //    return;
+                    //}
                 }
             }
 

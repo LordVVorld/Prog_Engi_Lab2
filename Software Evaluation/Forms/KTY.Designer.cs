@@ -1,6 +1,6 @@
 ﻿namespace Software_Evaluation
 {
-    partial class Form1
+    partial class KTY
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -190,7 +190,7 @@
             this.Controls.Add(this.tableKTY);
             this.Name = "Form1";
             this.Text = "Расчет КТУ";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.KTY_Load);
             ((System.ComponentModel.ISupportInitialize)(this.tableKTY)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
