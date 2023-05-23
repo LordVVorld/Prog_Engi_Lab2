@@ -1,0 +1,16 @@
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\bin\Debug\Software Evaluation.exe.config
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\bin\Debug\Software Evaluation.exe
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\bin\Debug\Software Evaluation.pdb
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software Evaluation.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software Evaluation.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software_Evaluation.Form1.resources
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software_Evaluation.Properties.Resources.resources
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software Evaluation.csproj.GenerateResource.cache
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software Evaluation.exe
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software Evaluation.pdb
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software_Evaluation.СalculationProjectCosts.resources
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software_Evaluation.Timetable.resources
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software_Evaluation.COCOMO.resources
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software_Evaluation.EconomicEffect.resources
+C:\Users\rusla\source\repos\Software Evaluation\Software Evaluation\obj\Debug\Software_Evaluation.CalculateOperatingCosts.resources
