@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4636C839-8529-4764-9409-1991B22DA1DC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Software_Evaluation</RootNamespace>
-    <AssemblyName>Software Evaluation</AssemblyName>
+    <RootNamespace>Prog_Engi_Lab2</RootNamespace>
+    <AssemblyName>Prog_Engi_Lab2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -104,6 +104,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Forms\Timetable.resx">
       <DependentUpon>Timetable.cs</DependentUpon>
